@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sport-gym/static/css/main.25cba019.css",
+    "main.js": "/sport-gym/static/js/main.15d110b0.js",
+    "static/media/banner.png": "/sport-gym/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/sport-gym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/sport-gym/index.html",
+    "main.25cba019.css.map": "/sport-gym/static/css/main.25cba019.css.map",
+    "main.15d110b0.js.map": "/sport-gym/static/js/main.15d110b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25cba019.css",
+    "static/js/main.15d110b0.js"
+  ]
+}
